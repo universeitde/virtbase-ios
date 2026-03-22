@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://github.com/virtbase/iOS/blob/d89fe11009b7ee8c902857364269e173dc5bcae3/.github/assets/icon.png" height="128">
+  <img src="https://github.com/virtbase/virtbase-ios/blob/main/.github/assets/icon.png?raw=true" height="128">
   <h1 align="center">Virtbase for iOS</h1>
 </p>
-
 <p align="center">
   <a href="https://virtbase.com/en" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-virtbase.com-black.svg?style=for-the-badge&logo=safari">
@@ -10,8 +9,8 @@
   <a href="https://testflight.apple.com/join/YTMUeKSy" target="_blank">
     <img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-Join-black.svg?style=for-the-badge&logo=apple">
   </a>
-  <a href="https://github.com/virtbase/iOS/actions/workflows/iOS.yml" target="_blank">
-    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/virtbase/iOS/iOS.yml?style=for-the-badge&logo=github&label=iOS+Build&color=black">
+  <a href="https://github.com/virtbase/virtbase-ios/actions/workflows/iOS.yml" target="_blank">
+    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/virtbase/virtbase-ios/iOS.yml?style=for-the-badge&logo=github&label=iOS+Build&color=black">
   </a>
 </p>
 
