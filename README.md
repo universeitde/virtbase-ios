@@ -15,11 +15,11 @@
   </a>
 </p>
 
-Virtbase for iOS is a native client for managing Virtbase infrastructure from iPhone and iPad. It provides direct access to servers without relying on desktop workflows, with a focus on clarity and predictable system interaction.
+Virtbase for iOS is a native app to manage your Virtbase servers directly from iPhone and iPad. It is built to give you straightforward access to your infrastructure without depending on a desktop setup.
 
-The app integrates essential infrastructure operations into a single interface. This includes remote access via VNC, firewall configuration, backup management, and real-time system visibility. Functionality is designed to closely reflect the underlying platform, allowing precise control while operating remotely.
+The app brings common server management tasks into a single place. You can connect to machines using integrated VNC, adjust firewall rules, manage backups, and keep an eye on system state in near real time. The goal is not to hide complexity, but to make interactions faster and more accessible when you are away from your main environment.
 
 > [!IMPORTANT]
-> Virtbase for iOS is under active development and should be considered experimental. Interfaces, APIs, and behavior may change without notice, and stability is not guaranteed for production use.
+> This app is still in active development. Things may change, break, or behave differently between updates.
 >
-> Contributions must follow clear authorship standards. Submissions should be understood and reviewed by the contributor. Pure AI-generated contributions are only accepted if explicitly marked and verified for correctness, security, and maintainability.
+> Contributions should be reviewed and understood before submission. Pure AI-generated contributions must be clearly marked and checked for correctness and security.
